@@ -19,6 +19,7 @@
 ## Features
 
 💻 Engineer
+<br>
 👩‍🎓 JeonJu Univ. Trad&Logistics
 <br>
 한국스마트정보교육원 (2021.08~2022.02)
